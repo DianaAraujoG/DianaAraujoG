@@ -3,12 +3,12 @@
 </p>
 
 ***
+I am Diana Gomez Araujo 😃. I am from Mexico, CDMX and I'm currently in a bootcamp ✨.I love to explore and learn about new things.
+
+- 💻 I ~like~ **love** coding
 - 🌱 I’m currently learning in Laboratoria.
 - 👯 I’m looking to collaborate on group projects and creative projects.
 
-## Connect with me:
-<a href="mailto:dianalauragomezaraujo@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128267.png?token=exp=1635445575~hmac=55bfc5982a4c6bc2f543d8b7875b24fd"  width="70" title="gmail"/>
-<a href="https://www.linkedin.com/in/diana-laura-g%C3%B3mez-araujo-5aa2061b7/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635446009~hmac=0ab1e6f19d47e17440a6aa412416fa59"  width="60" title="linkedIn"/>
 
 ## Languages & Tools 
 <p align="center">
@@ -20,19 +20,8 @@
   <img alt="vscode" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="80" title="vscode"/>
   <img alt="figma" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="80" title="figma"/>
   <img alt="jest" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" width="80" title="jest"/>
-</p
+</p>
 
-<!--
-**DianaAraujoG/DianaAraujoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+<a href="mailto:dianalauragomezaraujo@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128267.png?token=exp=1635445575~hmac=55bfc5982a4c6bc2f543d8b7875b24fd"  width="70" title="gmail"/>
+<a href="https://www.linkedin.com/in/diana-laura-g%C3%B3mez-araujo-5aa2061b7/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635446009~hmac=0ab1e6f19d47e17440a6aa412416fa59"  width="60" title="linkedIn"/>
