@@ -3,7 +3,7 @@
 </p>
 
 ***
-I am Diana Gomez Araujo 😃. I am from Mexico, CDMX and I'm currently in a bootcamp ✨.I love to explore and learn about new things.
+I am Diana Gomez Araujo 👩🏽‍💻. I am from Mexico, CDMX and I'm currently in a bootcamp ✨.I love to explore and learn about new things.
 
 - 💻 I ~like~ **love** coding
 - 🌱 I’m currently learning in Laboratoria.
@@ -25,3 +25,7 @@ I am Diana Gomez Araujo 😃. I am from Mexico, CDMX and I'm currently in a boot
 ## Connect with me:
 <a href="mailto:dianalauragomezaraujo@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128267.png?token=exp=1635445575~hmac=55bfc5982a4c6bc2f543d8b7875b24fd"  width="70" title="gmail"/>
 <a href="https://www.linkedin.com/in/diana-laura-g%C3%B3mez-araujo-5aa2061b7/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635446009~hmac=0ab1e6f19d47e17440a6aa412416fa59"  width="60" title="linkedIn"/>
+
+ <p align="center">
+    <a href="https://github.com/DianaAraujoG"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dianaaraujog&show_icons=true&theme=github_dracula" alt="DianaAraujoG" height="192px"/></a>
+	</p>
