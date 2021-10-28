@@ -1,9 +1,14 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DianaAraujoG/DianaAraujoG/main/DianaAraujoG.gif" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+***
+- 🌱 I’m currently learning in Laboratoria.
+- 👯 I’m looking to collaborate on group projects and creative projects.
+
+** Connect with me:
+ [https://cdn-icons.flaticon.com/png/512/3128/premium/3128267.png?token=exp=1635445575~hmac=55bfc5982a4c6bc2f543d8b7875b24fd](dianalauragomezaraujo@gmail.com)
+[https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635446009~hmac=0ab1e6f19d47e17440a6aa412416fa59](https://www.linkedin.com/in/diana-laura-g%C3%B3mez-araujo-5aa2061b7/)
 
 <!--
 **DianaAraujoG/DianaAraujoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
