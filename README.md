@@ -15,12 +15,11 @@
   <img alt="javascript" src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="80" title="javascript"/>
   <img alt="html" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="80" title="html"/>
   <img alt="css" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="80" title="css"/>
-  <img alt="firebase" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="80" title="firebase"/>
+  <img alt="firebase" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="80" title="firebase"/>
   <img alt="node" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="80" title="node">
   <img alt="vscode" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="80" title="vscode"/>
-  <img alt="figma" src="https://img.icons8.com/clouds/95/000000/figma.png" title="figma"/>
-  <img alt="jest" src="https://cdn.iconscout.com/icon/free/png-256/jest-3630129-3031261.png" width="80" title="jest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm"/>
+  <img alt="figma" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" title="figma"/>
+  <img alt="jest" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" width="80" title="jest"/>
 </p
 
 <!--
