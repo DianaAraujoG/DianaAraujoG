@@ -23,7 +23,6 @@ I am Diana Gomez Araujo 👩🏽‍💻. I am from Mexico, CDMX and I'm currentl
 <img alt="React" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" width="80" title="React"/>	
 	<img alt="sass" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146350.png" width="80" title="Sass"/>
 	
-	<img alt="sass" src="https://files.slack.com/files-pri/T0NNB6T0R-F02MMEBMGVA/flecha-hacia-abajo.png" width="80" title="Sass"/>
 	
 </p>
 
