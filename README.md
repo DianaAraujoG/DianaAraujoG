@@ -28,7 +28,7 @@ I am Diana Gomez Araujo 👩🏽‍💻. I am from Mexico, CDMX and I'm currentl
 
 ## Connect with me:
 <p align="center">
-<a href="mailto:dianalauragomezaraujo@gmail.com"><img src=https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"  width="70" title="gmail"/>
+<a href="mailto:dianalauragomezaraujo@gmail.com"><img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"  width="70" title="gmail"/>
 <a href="https://www.linkedin.com/in/diana-laura-g%C3%B3mez-araujo-5aa2061b7/"><img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png"  width="70" title="linkedIn"/>
 </p>
  <p align="center">
