@@ -19,7 +19,11 @@ I am Diana Gomez Araujo 👩🏽‍💻. I am from Mexico, CDMX and I'm currentl
   <img alt="node" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="80" title="node">
   <img alt="vscode" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="80" title="vscode"/>
   <img alt="figma" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="80" title="figma"/>
-  <img alt="jest" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" width="80" title="jest"/>
+  <img alt="jest" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" width="80" title="jest"/>	
+<img alt="jest" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="80" title="React"/>	
+	<img alt="jest" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146350.png" width="80" title="Sass"/>	
+	
+	
 </p>
 
 ## Connect with me:
