@@ -6,7 +6,6 @@
 I am Diana Gomez Araujo 👩🏽‍💻. I am from Mexico, CDMX✨.I love to explore and learn about new things.
 
 - 💻 I ~like~ **love** coding
-- 🌱 I’m currently learning in Laboratoria.
 - 👯 I’m looking to collaborate on group projects and creative projects.
 
 
